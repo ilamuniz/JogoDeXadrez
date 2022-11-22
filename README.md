@@ -17,4 +17,4 @@
 * Exceções
 * Método / classe abstrata
 
-Repositório original: https://github.com/acenelio/chess-system-java
+Repositório de referência: https://github.com/acenelio/chess-system-java
